@@ -1,0 +1,25 @@
+body {
+    background-color: blanchedalmond;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width:360px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+
+
+label {
+    margin: 5px;
+}
+
+.col {
+    width: 50%;
+}
+
+.sub {
+    width: 100%;
+}
